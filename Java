@@ -1,0 +1,11 @@
+import java.io.*;
+import java.util.scanner;
+[D[A[C[public Class Hello
+{
+public static void main(String[]) args)
+{
+System.out.println("Hello Java");
+}
+}[A[A[A[A[D	[D[D[D[D[D[D[D[D[D[D       [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[	public static void main(String[] args)[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D	{[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Z	   
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C		System.out.println("Hello Java");[B[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
+[A[D[A[C[C[A[	}
